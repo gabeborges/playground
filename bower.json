@@ -1,0 +1,26 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "authors": [
+    "Gabriel Carpenedo <gabriel.carpenedo@gmail.com>"
+  ],
+  "description": "HTML, CSS and JS playground",
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS",
+    "Playground"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cbgabe/playground",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sanitize-css": "~1.1.0"
+  }
+}
