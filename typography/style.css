@@ -1,14 +1,17 @@
 body {
-  font-family: 'Helvetica Neue', Helvetica, Open Sans, Arial, sans-serif;
+  font-family: 'Merriweather', serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 27px;
   color: #333;
+  padding-bottom: 30px;
 }
 
-header {
-  background-color: #e2e2e2;
-  padding: 120px 0;
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 900;
 }
 
 h1 {
@@ -16,11 +19,20 @@ h1 {
   padding: 0;
 }
 
-article {
-  margin: 60px 0;
+small {
+  padding-top: 20px;
+  display: inline-block;
+  line-height: 85%;
 }
 
-p {
+header {
+  background-color: #e2e2e2;
+  padding: 120px 0;
+  margin-bottom: 20px;
+}
+
+article {
+  margin: 60px 0;
 }
 
 .lineHeight-long {
