@@ -1,0 +1,52 @@
+body {
+  font-family: 'Helvetica Neue', Helvetica, Open Sans, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #333;
+}
+
+header {
+  background-color: #e2e2e2;
+  padding: 120px 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+article {
+  margin: 60px 0;
+}
+
+p {
+}
+
+.lineHeight-long {
+  line-height: 36px;
+}
+
+.lineHeight-short {
+  line-height: 16px;
+}
+
+.textAlign-left {
+  text-align: left;
+}
+
+.textAlign-right {
+  text-align: right;
+}
+
+.textAlign-center {
+  text-align: center;
+}
+
+.textAlign-justify {
+  text-align: justify;
+}
+
+.u-todo {
+  color: #ccc;
+}
