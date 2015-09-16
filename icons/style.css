@@ -1,0 +1,40 @@
+body {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  color: #333;
+  padding-bottom: 30px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 900;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+small {
+  padding-top: 20px;
+  display: inline-block;
+  line-height: 85%;
+}
+
+header {
+  background-color: #e2e2e2;
+  padding: 120px 0;
+  margin-bottom: 20px;
+}
+
+article {
+  margin: 60px 0;
+}
+
+.u-todo {
+  color: #ccc;
+}
