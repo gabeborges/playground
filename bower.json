@@ -2,7 +2,7 @@
   "name": "playground",
   "version": "1.0.0",
   "authors": [
-    "Gabriel Carpenedo <gabriel.carpenedo@gmail.com>"
+    "Gabriel Carpenedo hi@gabrielcarpenedo.com"
   ],
   "description": "HTML, CSS and JS playground",
   "keywords": [
@@ -21,6 +21,7 @@
     "tests"
   ],
   "dependencies": {
-    "sanitize-css": "~1.1.0"
-  }
+    "bootstrap": "~3.3.5"
+  },
+  "main": "README.md"
 }
